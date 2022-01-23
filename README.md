@@ -3,3 +3,4 @@ The program name of this project is: Week 1 Independent Project | Burger Palace.
 link to live site on GitHub Pages: https://github.com/chanaiagwata/moringa_pre-prep_projects.git
 Public license.
 Happy coding!
+Happy coding!
