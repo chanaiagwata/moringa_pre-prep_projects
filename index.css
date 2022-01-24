@@ -51,11 +51,19 @@
 
 }
 .intro1{
-    width: 300px;
+    width: 350px;
+    float: left;
 }
 .intro2{
+    width: 300px;
+}
+.intro3{
         width: 200px;
         background: orange;
+        float: right;
+        height: 1000x;
+        clear: left;
+        margin-top:0 px;
 }
 .order{
     background-color: orange;
@@ -71,7 +79,7 @@
 }
 
 .box-container{
-    width: 1000px; height: 200px; margin:auto; padding-bottom: 1px;
+    width: 1000px; height: 200px; margin-top:200px; margin: auto; padding-bottom: 1px;
     
 }
 .description{
