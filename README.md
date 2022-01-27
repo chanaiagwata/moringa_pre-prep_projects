@@ -1,6 +1,33 @@
 # moringa_pre-prep_projects
-The program name of this project is: Week 1 Independent Project | Burger Palace. It was authored by Chanai Nyaosi Agwata as his first project. It might not be perfect, but kindly leave a comment on areas that the author should improve on in future projects.
-link to live site on GitHub Pages: https://github.com/chanaiagwata/moringa_pre-prep_projects.git
+##### By Chanai Agwata 
+### It's a brief explanation of my work
+
+## Table of Content
+
+|Section Name              |Number| 
+|:------------------------:|-----------:|
+|Description               |#description|
+|Installation Prerequisites|#Installation|
+|Technology Employed       |#technology-Employed|
+|Licence                   |#licence|
+|Author's Details          |#author-Info|
+
+
+## Description
+<p>This is a website that serves as a landing page for a burger restaurant. It shows my experience on the project and the knowledge gained.</p>
+
+![alt text](https://html.com/wp-content/uploads/html-tutorial-beginners-header.webp)
+
+## Installation Requirements
+
+* An iPad, a PC, a phone, or any other mobile device.
+* Internet connectivity.
+## Technology Employed
+* HTML - This served as the basis for building the pages' structure.
+
+* CSS - This was employed in the styling of the web-page, including the left-side navigation bar.
+
+## Licence
 MIT License
 Copyright (c) [2022] [Chanai Agwata]
 
@@ -22,3 +49,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Licensed under the [MIT License](LICENSE). 
+
+## Authors Info
+
+Linkedin Profile - [Chanai Agwata](https://www.linkedin.com/in/chanai-agwata-90a345146/)
+
+[Go Back to the top](#portfolio)
